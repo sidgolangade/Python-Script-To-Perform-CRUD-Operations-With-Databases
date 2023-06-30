@@ -1,0 +1,79 @@
+Record created successfully
+Record created successfully
+ID: 1
+Name: John Doe
+Department: IT
+Salary: 5500.0
+------------------------
+ID: 3
+Name: Michael Barbosa
+Department: Sales
+Salary: 7000.0
+------------------------
+ID: 4
+Name: Jane Smith
+Department: Marketing
+Salary: 6000.0
+------------------------
+ID: 5
+Name: John Doe
+Department: IT
+Salary: 5000.0
+------------------------
+ID: 6
+Name: Jane Smith
+Department: Marketing
+Salary: 6000.0
+------------------------
+Enter the ID of the record you want to update: 5
+Enter the new name: David Dhoni
+Enter the new department: CSM
+Enter the new salary: 9000
+Record updated successfully
+ID: 1
+Name: John Doe
+Department: IT
+Salary: 5500.0
+------------------------
+ID: 3
+Name: Michael Barbosa
+Department: Sales
+Salary: 7000.0
+------------------------
+ID: 4
+Name: Jane Smith
+Department: Marketing
+Salary: 6000.0
+------------------------
+ID: 5
+Name: David Dhoni
+Department: CSM
+Salary: 9000.0
+------------------------
+ID: 6
+Name: Jane Smith
+Department: Marketing
+Salary: 6000.0
+------------------------
+Enter the ID of the record you want to delete: 6
+Record deleted successfully
+ID: 1
+Name: John Doe
+Department: IT
+Salary: 5500.0
+------------------------
+ID: 3
+Name: Michael Barbosa
+Department: Sales
+Salary: 7000.0
+------------------------
+ID: 4
+Name: Jane Smith
+Department: Marketing
+Salary: 6000.0
+------------------------
+ID: 5
+Name: David Dhoni
+Department: CSM
+Salary: 9000.0
+------------------------
